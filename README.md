@@ -35,15 +35,11 @@ This project is an interactive Power BI dashboard that analyzes sales, profit, a
 
 See the `/screenshots` folder for each dashboard page preview.
 
----
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop (latest version recommended)
 3. Interact with slicers and visuals to explore insights
-
----
 
 ## 📌 Author
 
